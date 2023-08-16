@@ -1,0 +1,9 @@
+hcloud_token=""
+hcloud_network=3242272
+hcloud_master_server_type="cpx31"
+hcloud_worker_server_type="cpx41"
+master_server_count=3
+worker_server_count=5
+hcloud_zone="eu-central"
+master_os="ubuntu-20.04"
+worker_os="ubuntu-20.04"
